@@ -1,7 +1,7 @@
 Vagrant - Kafka
 =============
 
-duped from https://github.com/eucuepo/vagrant-kafka
+cloned from https://github.com/eucuepo/vagrant-kafka
 
 Vagrant configuration to setup a partitioned Apache Kafka installation with clustered Apache Zookeeper.
 
