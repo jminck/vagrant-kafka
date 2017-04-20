@@ -1,6 +1,8 @@
 Vagrant - Kafka
 =============
 
+duped from https://github.com/eucuepo/vagrant-kafka
+
 Vagrant configuration to setup a partitioned Apache Kafka installation with clustered Apache Zookeeper.
 
 This configuration will start and provision six CentOS6 VMs:
